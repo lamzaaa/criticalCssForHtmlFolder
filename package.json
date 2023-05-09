@@ -1,0 +1,24 @@
+{
+  "name": "critical-css-generator-lz",
+  "version": "1.3.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "createCriticalCss": "./bin/createCriticalCss.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "clipboardy": "^2.3.0",
+    "inquirer": "^8.2.5",
+    "inquirer-autocomplete-prompt": "^1.4.0",
+    "ora": "^5.4.1",
+    "path": "^0.12.7",
+    "penthouse": "^2.3.3"
+  }
+}
